@@ -19,7 +19,7 @@
 [<img alt="Webpage" src="https://raw.githubusercontent.com/Spellhold-Studios/Spellhold-Studios.github.io/main/assets/buttons/webpage.svg" height="28">](https://Spellhold-Studios.github.io/index.html)&nbsp;
 [<img alt="Discord" src="https://raw.githubusercontent.com/Spellhold-Studios/Spellhold-Studios.github.io/main/assets/buttons/discord-blue.svg" height="28">](https://discord.gg/pE2Njbdb2a)
 
-### Introduction
+## Introduction
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam interdum ut velit eget condimentum. Etiam eget tortor quis felis semper tincidunt. Proin facilisis vulputate elit, nec pretium eros auctor id. Curabitur ut enim sed nibh bibendum pulvinar et in lacus. Integer a odio non nibh pharetra vulputate. Vivamus vel convallis velit.
 
@@ -27,15 +27,23 @@ Etiam non convallis quam, et semper urna. Suspendisse nec ultrices mi, quis soll
 
 *Please check the complete [Readme]() to learn more about this mod before installation.*
 
-### Components
+## Key features
 
-- Name of Component
-- Name of Component
-- Name of Component
-- Name of Component
-- Name of Component
+- Nunc risus enim euismod non urna nec vehicula 
+- Donec hendrerit malesuada placerat amet odio auctor
+- Maecenas ut volutpat ante in ac maximus nibh
+- Cras luctus nibh felis quis malesuada tellus blandit
+- Mauris imperdiet neque at efficitur commodo
 
-### Credits
+## Components
+
+1. Name of Component
+2. Name of Component
+3. Name of Component
+4. Name of Component
+5. Name of Component
+
+## Credits
 
 &nbsp;&nbsp; **Author**  
 &nbsp;&nbsp; JaneDoe
