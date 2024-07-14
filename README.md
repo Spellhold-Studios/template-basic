@@ -3,8 +3,8 @@
 [![Release](https://img.shields.io/github/v/release/Spellhold-Studios/template-basic?include_prereleases&color=%2392403a)](https://github.com/Spellhold-Studios/template-basic/releases/latest)
 [![Published](https://img.shields.io/github/release-date/Spellhold-Studios/template-basic?display_date=published_at&label=published&color=%2392403a)](https://github.com/Spellhold-Studios/template-basic/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/Spellhold-Studios/template-basic/total?color=%2392403a)](https://github.com/Spellhold-Studios/template-basic/releases)
-<br>
 [![Views](https://badges.pufler.dev/visits/Spellhold-Studios/template-basic?label=views&color=%2392403a)](https://github.com/Spellhold-Studios/template-basic/releases)
+<br>
 [![Games](https://img.shields.io/badge/games-BG2%20%a0%20BGT%20%a0%20BG2%3AEE%20%a0%20EET-%2392403a)](https://github.com/Spellhold-Studios/template-basic/releases)
 [![Language](https://img.shields.io/badge/language-en%20%a0%20de%20%a0%20fr%20%a0%20zh--CN%20%a0%20zh--TW-%2392403a)](https://github.com/Spellhold-Studios/template-basic/releases)
 
